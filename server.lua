@@ -1,4 +1,4 @@
-local Webhook = 'https://discordapp.com/api/webhooks/741682060745506929/AwypIKxiGkUayIKpuk1TbILBSkzSDs1QlgAVehAAcgOjpw224DLlROuFvmZ0Zw73mxU0'
+local Webhook = 'PASTE_YOUR_WEBHOOK'
 
 local SystemName = 'Coords Bot'
 
